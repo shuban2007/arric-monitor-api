@@ -1,0 +1,11 @@
+{
+  "name": "arric-monitor-api",
+  "version": "1.0.0",
+  "description": "Arric Monitor Backend",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
